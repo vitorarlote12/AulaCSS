@@ -15,7 +15,7 @@ h1
 
 div
 {
-    border: 1px solid aqua;
+    border: 1px solid black;
     margin: 10px;
     padding: 10px;
 }
@@ -43,4 +43,23 @@ h3
 .sublinhado
 {
     text-decoration: underline;
+}
+
+.destaque
+{
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+}
+
+.cursiva
+{
+    font-family: 'Lucida Handwriting';
+    font-size: 20px;
+    color: crimson; 
+}
+
+.google
+{
+    font-family: 'Cardo';
+    font-size: 22px;
 }
