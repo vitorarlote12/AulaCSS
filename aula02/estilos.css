@@ -1,0 +1,29 @@
+body
+{
+    margin:  0;
+    padding: 0;
+}
+
+h1
+{
+    color: black;
+    background-color: cornflowerblue;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.conteudo
+{
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.subtitulo
+{
+    font-size: 30px;
+    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
