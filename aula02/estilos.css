@@ -115,7 +115,34 @@ h1
 
     background-color: cornflowerblue;
     color: black;
-    
+
     width: 100px;
     height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 1px solid cornflowerblue;
+}
+
+.exercicio7
+{
+    height: 100vh;
+}
+
+.menu
+{
+    height: 50px;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+    color: black;
+    font-size: 25px;
+}  
+
+.opcoes
+{
+    display: flex;
+    
 }
